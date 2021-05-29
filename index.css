@@ -49,11 +49,15 @@ img {
 }
 
 .countdown-title {
-    font-size: 1rem;
+    font-size: 5rem;
+}
+
+.headers {
+    font-size: 3rem;
 }
 
 .counters {
-    font-size: 2rem;
+    font-size: 4rem;
     padding: 0;
 }
 
