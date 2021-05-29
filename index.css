@@ -38,7 +38,8 @@ img {
 }
 
 .phoebe-gif {
-    width: 80%;
+    transform: scale(1.5);
+    margin-top: 1em;
 }
 
 /** Typography **/
