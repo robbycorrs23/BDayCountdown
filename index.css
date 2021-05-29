@@ -39,7 +39,7 @@ img {
 }
 
 .phoebe-gif {
-    margin-top: 2em;
+    margin: 2em auto;
     display: block;
     position: absolute;
 }
