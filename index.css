@@ -39,7 +39,6 @@ img {
 }
 
 .phoebe-gif {
-    transform: scale(1.5);
     margin-top: 2em;
     display: block;
     position: absolute;
@@ -49,7 +48,7 @@ img {
 
 #blurb {
     color: gray;
-    font-size: 2.5rem;
+    font-size: 2rem;
     padding: 0 .5rem;
 }
 
