@@ -40,13 +40,15 @@ img {
 .phoebe-gif {
     transform: scale(1.5);
     margin-top: 1em;
+    display: inline-block;
 }
 
 /** Typography **/
 
 #blurb {
     color: gray;
-    font-size: 3rem;
+    font-size: 2.5rem;
+    padding: 0 .5rem;
 }
 
 #blurb,
