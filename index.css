@@ -37,6 +37,10 @@ img {
     border-bottom: white dashed 1px;
 }
 
+.joey-gif {
+    width: 80%;
+}
+
 /** Typography **/
 
 #blurb {
