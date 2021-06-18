@@ -18,6 +18,7 @@ main {
 
 img {
     width: 80%;
+    margin: 0 auto;
 }
 
 .counter-div {
