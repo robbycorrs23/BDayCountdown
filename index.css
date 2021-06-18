@@ -48,7 +48,7 @@ img {
 
 #blurb {
     color: gray;
-    font-size: 2rem;
+    font-size: 1rem;
     padding: 0 .5rem;
 }
 
@@ -58,15 +58,15 @@ img {
 }
 
 .countdown-title {
-    font-size: 10rem;
+    font-size: 2rem;
 }
 
 .headers {
-    font-size: 5rem;
+    font-size: 2rem;
 }
 
 .counters {
-    font-size: 6rem;
+    font-size: 3rem;
     padding: 0;
 }
 
