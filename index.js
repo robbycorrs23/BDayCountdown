@@ -4,7 +4,7 @@ const minuteCounter = document.querySelector('.minute-counter')
 const secondCounter = document.querySelector('.second-counter')
 
 
-const birthday = new Date('06/11/2021')
+const birthday = new Date('06/11/2022')
 const second = 1000;
 const minute = second * 60;
 const hour = minute * 60;
