@@ -1,10 +1,13 @@
 html, body {
+    margin: 0;
+}
+
+body {
     text-align: center;
     padding: 1em;
     background: #000 url("https://user-images.githubusercontent.com/82347372/120073737-a3f77480-c067-11eb-8f6e-cd46533e9936.png");
     background-size: cover;
-    margin: 0;
-}
+}    
 
 /** Layout **/
 
