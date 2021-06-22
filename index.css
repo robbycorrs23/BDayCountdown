@@ -43,7 +43,7 @@ img {
 }
 
 .phoebe-gif {
-    width: 50%;
+    width: 60%;
     margin: 2em auto 0;
 }
 
@@ -77,4 +77,8 @@ img {
     color: gray;
 }
 
-@media (min-width:800px
+@media (min-width:800px) {
+    main {
+        max-width: 800px;
+    }
+}
